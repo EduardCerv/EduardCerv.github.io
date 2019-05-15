@@ -754,3 +754,8 @@ section
 	color: #838383;
 	margin-top: -1px;
 }
+
+.general_info_content .justify-content-start
+{
+    margin-bottom: 15px;
+}

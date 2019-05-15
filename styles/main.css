@@ -1,10 +1,10 @@
 .logo {
     font-size: 2rem;
 }
-.general_info_list .fa{
+.general_info_list .fa, .general_info_icon .fa{
 	color: #8583e1 !important;
     font-size: 1.3rem;
 }
-.general_info_list .fa-mobile{
+.general_info_list .fa-mobile, .general_info_icon .fa-mobile{
 	font-size: 2rem !important;
 }
